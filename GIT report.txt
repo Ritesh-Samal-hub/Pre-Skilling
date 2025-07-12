@@ -1,4 +1,3 @@
-1 hii 
 2 git introduction 
 3 first modified commit demo
-4 test
+4 done
