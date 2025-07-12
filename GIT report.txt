@@ -1,3 +1,4 @@
-2 git introduction 
-3 first modified commit demo
-4 done
+1 git introduction 
+2 first modified commit demo
+3 done
+4 pulling
